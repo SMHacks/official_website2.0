@@ -67,7 +67,7 @@ section {
 }
 
 #devpost-link {
-    color: #FD9845;
+    color: #a5a5a5;
 }
 
 #venue {
@@ -132,8 +132,7 @@ th {
 }
 
 #sponsors h2,
-#apply h2,
-#submissions h3 {
+#apply h2 {
     text-align: center;
 }
 
